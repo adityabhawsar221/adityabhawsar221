@@ -69,9 +69,9 @@ I'm a **final-year Computer Science (AIML)** student at GGITS, Jabalpur, passion
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityabhawsar221&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityabhawsar221&theme=tokyonight" height="170"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityabhawsar221&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityabhawsar221&theme=tokyonight" height="170"/>
 </div>
 
 <div align="center">
@@ -89,35 +89,27 @@ I'm a **final-year Computer Science (AIML)** student at GGITS, Jabalpur, passion
 ## 🧩 LeetCode — [Aditya_Bhawsar](https://leetcode.com/u/Aditya_Bhawsar/)
 
 <div align="center">
+  <a href="https://leetcode.com/u/Aditya_Bhawsar/">
+    <img src="https://img.shields.io/badge/LeetCode-Aditya__Bhawsar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://leetcode.com/u/Aditya_Bhawsar/">
+    <img src="https://img.shields.io/badge/Problems_Solved-300+-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Aditya_Bhawsar/">
+    <img src="https://img.shields.io/badge/Contest_Rating-1500+-blue?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Solved-300+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-      <br/><sub><b>Problems Solved</b></sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Rating-1500+-646CFF?style=for-the-badge&logo=leetcode&logoColor=white" />
-      <br/><sub><b>Contest Rating</b></sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Contests-16+-00B37E?style=for-the-badge&logo=leetcode&logoColor=white" />
-      <br/><sub><b>Contests Participated</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Easy-🟢_Solved-2CBB5D?style=flat-square" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Medium-🟡_Solved-FFA116?style=flat-square" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Hard-🔴_Solved-EF4743?style=flat-square" />
-    </td>
-  </tr>
-</table>
+  <br/><br/>
 
+  <a href="https://leetcode.com/u/Aditya_Bhawsar/">
+    <img src="https://img.shields.io/badge/Easy-🟢_Solved-2CBB5D?style=flat-square" />
+  </a>
+  <a href="https://leetcode.com/u/Aditya_Bhawsar/">
+    <img src="https://img.shields.io/badge/Medium-🟡_Solved-FFA116?style=flat-square" />
+  </a>
+  <a href="https://leetcode.com/u/Aditya_Bhawsar/">
+    <img src="https://img.shields.io/badge/Hard-🔴_Solved-EF4743?style=flat-square" />
+  </a>
 </div>
 
 ---
