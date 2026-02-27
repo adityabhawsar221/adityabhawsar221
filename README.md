@@ -84,6 +84,14 @@ I'm a **final-year Computer Science (AIML)** student at GGITS, Jabalpur, passion
 
 ---
 
+## 🧩 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Aditya_Bhawsar?theme=dark&font=Fira%20Code&ext=heatmap&border=0" width="500"/>
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🍔 [FoodieFly](https://github.com/adityabhawsar221/FoodieFly) — MERN Food Delivery Platform
