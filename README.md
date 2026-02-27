@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=646CFF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Aditya+Bhawsar+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;MERN+Stack+%7C+Problem+Solver;300%2B+LeetCode+%7C+Rating+1500%2B" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=646CFF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Aditya+Bhawsar+%F0%9F%91%8B;MERN+Stack+%7C+Problem+Solver%2B" alt="Typing Animation" />
 
 <br/>
 
@@ -78,19 +78,41 @@ I'm a **final-year Computer Science (AIML)** student at GGITS, Jabalpur, passion
   <img src="https://github-readme-streak-stats.herokuapp.com?user=adityabhawsar221&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="700"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityabhawsar221&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
+
 
 ---
 
-## 🧩 LeetCode Stats
+## 🧩 LeetCode — [Aditya_Bhawsar](https://leetcode.com/u/Aditya_Bhawsar/)
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Aditya__Bhawsar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aditya_Bhawsar/)
-[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-300+-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aditya_Bhawsar/)
-[![Contest Rating](https://img.shields.io/badge/Contest%20Rating-1500+-blue?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aditya_Bhawsar/)
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Solved-300+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+      <br/><sub><b>Problems Solved</b></sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Rating-1500+-646CFF?style=for-the-badge&logo=leetcode&logoColor=white" />
+      <br/><sub><b>Contest Rating</b></sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Contests-16+-00B37E?style=for-the-badge&logo=leetcode&logoColor=white" />
+      <br/><sub><b>Contests Participated</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Easy-🟢_Solved-2CBB5D?style=flat-square" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Medium-🟡_Solved-FFA116?style=flat-square" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Hard-🔴_Solved-EF4743?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
