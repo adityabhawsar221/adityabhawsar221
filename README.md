@@ -23,7 +23,7 @@ I'm a **final-year Computer Science (AIML)** student at GGITS, Jabalpur, passion
 
 - 🔭 Currently working on MERN stack projects and improving DSA skills
 - 🧩 Solved **300+ problems** on LeetCode · Contest rating **1500+**
-- 🌱 Always learning — currently exploring TypeScript and AI integrations
+- 🌱 Always learning — currently exploring **Cloud Computing & AWS**
 - 📫 Open to **internships and full-time opportunities**
 
 ---
