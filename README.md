@@ -92,8 +92,6 @@ I'm a **final-year Computer Science (AIML)** student at GGITS, Jabalpur, passion
 [![Problems Solved](https://img.shields.io/badge/Problems%20Solved-300+-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aditya_Bhawsar/)
 [![Contest Rating](https://img.shields.io/badge/Contest%20Rating-1500+-blue?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aditya_Bhawsar/)
 
-<img src="https://leetcode-stats.vercel.app/api?username=Aditya_Bhawsar&theme=dark" width="500" alt="LeetCode Stats" />
-
 </div>
 
 ---
