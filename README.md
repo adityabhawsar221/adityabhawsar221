@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **final-year Computer Science (AIML)** student at GGITS, Jabalpur, passionate about building scalable full-stack web applications. I enjoy solving algorithmic problems and translating ideas into clean, functional software.
+I'm a B.Tech CSE graduate 2026 passionate about building scalable full-stack web applications. I enjoy solving algorithmic problems and translating ideas into clean, functional software.
 
 - 🔭 Currently working on MERN stack projects and improving DSA skills
 - 🧩 Solved **300+ problems** on LeetCode · Contest rating **1500+**
