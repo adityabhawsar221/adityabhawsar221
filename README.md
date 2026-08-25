@@ -4,7 +4,7 @@
 
 <br/>
 
-<p><em>Final-year CS student building real-world projects with modern web technologies</em></p>
+<p><em> B.Tech graduate 2026 building real-world projects with modern web technologies</em></p>
 
 <br/>
 
